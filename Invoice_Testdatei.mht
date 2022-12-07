@@ -1,0 +1,36 @@
+UNA:+.? '
+UNB+UNOC:3+[UNB GLN Lieferant]:14+4335347000007:14+201102:1450+47205++INVOIC+++=EANCOM'
+UNH+109354+INVOIC:D:01B:UN:EAN010'
+BGM+380+[Rechnungsnummer Lieferant]+9'
+DTM+137:20201030:102'
+DTM+35:20201030:102'
+FTX+AAK++ST2::246'[Bonusvereinbarungscode]
+RFF+DQ:[Lieferscheinnummer]'
+DTM+171:20201030:102'
+RFF+CT:[Contractnumber Lieferant]'
+NAD+BY+4335347711002::9'
+NAD+SU+[NAD GLN Lieferant]::9'
+RFF+VA:[VAT ID Lieferant]'
+CTA++:[Ansprechpartner Lieferant]'
+COM+[Telefon Ansprechpartner Lieferant]:TE'
+COM+[E-Mail Ansprechpartner Lieferant]:EM'
+TAX+7+VAT+++:::16+S'
+CUX+2:EUR:4'
+LIN+1++[EAN Lieferant]:SRV'
+IMD+A++:::[Artikelbezeichnung]'
+QTY+47:2:PCE' [berechnete Menge]
+MOA+203:173.22' [Positionsbetrag: Positionswert minus Abschläge plus Zuschläge für eine Position. Siehe auch Code 66]
+PRI+AAA:86.61:::1:PCE'
+UNS+S'
+CNT+1:2.0'
+MOA+77:200.94' [Rechnungsbetrag  Gesamtsumme einer Einzelrechnung in Abstimmung mit den Lieferbedingungen.] 
+MOA+79:173.22' [Gesamtpositionsbetrag  Die Summe aller Positionsbeträge.]
+MOA+125:173.22' [Steuerpflichtiger Betrag  Betrag, auf den eine Steuer erhoben wird]
+MOA+124:27.72'[Steuerbetrag]
+TAX+7+VAT+++:::19+S'
+MOA+79:173.22'
+MOA+125:173.22'
+MOA+124:27.72'
+UNT+32+109354'
+UNZ+1+47205'
+
