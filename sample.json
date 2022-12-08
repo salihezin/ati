@@ -1,0 +1,18 @@
+{
+    "UNA:": [".? *\n"], 
+    "UNB": ["UNOC:3", "4335347000007:[UNB GLN Lieferant]:14", "201101:0905", "1119519", "", "ORDERS=\n"], 
+    "": ["", "", "EANCOM*\n"], "\n": [[]], 
+    "UNH": ["1", "ORDERS:D:01B:UN:EAN010*\n"], 
+    "BGM": ["220", "[MSD Bestellnummer]", "9*\n"], 
+    "DTM": ["137:20201101:102*\n", ["63:20201104:102*\n"]], 
+    "RFF": ["CR:[Referenznummer LF /DUMMY AB1234567]*\n", ["ZZZ:DE*\n"]], 
+    "NAD": ["SU", "[NAD GLN Lieferant]::9*\n", ["BY", "4335347335000::9*\n"], ["IV", "4335347335000::9*\n"], ["DP", "4335347335000::9*\n"]], 
+    "CTA": ["IC", ":[Besteller z. B. Marktmitarbeiter, SALDO, Relex, etc.]*\n"], 
+    "CUX": ["2:EUR:9*\n"], "LIN": ["1", "", "[EAN Lieferant]:SRV*\n"], 
+    "PIA": ["1", "[Artikelnummer Lieferant]:IN*\n"], 
+    "IMD": ["A", "", ":::[Artikelbezeichnung Lieferant]*\n"], 
+    "QTY": ["21:[Bestellmenge z. B. 2]*\n", ["192:[nicht berechnete Bestellmenge z. B. 0]*\n"]], 
+    "PRI": ["AAB:[Einkaufspreis Summe]*\n", ["AAA:[Einkaufspreis Summe]*\n"]], 
+    "UNS": ["S*\n"], "UNT": ["21", "1*\n"], 
+    "UNZ": ["1", "1119519*\n"]
+}
